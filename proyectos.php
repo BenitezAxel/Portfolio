@@ -58,7 +58,7 @@
                                 <a href="abmclientes" class="btn" target="_blank">Ver online</a>
                             </div>
                             <div class="col-6 text-right">
-                                <a href="https://github.com/BenitezAxel/portfolio1" target="_blank">Codigo
+                                <a href="https://github.com/BenitezAxel/ABMClientes" target="_blank">Codigo
                                     fuente</a>
                             </div>
                         </div>
@@ -85,7 +85,7 @@
                                 <a href="abmventas" class="btn" target="_blank">Ver online</a>
                             </div>
                             <div class="col-6 text-right">
-                                <a href="https://github.com/BenitezAxel/portfolio1" target="_blank">Codigo
+                                <a href="https://github.com/BenitezAxel/ABMVentas" target="_blank">Codigo
                                     fuente</a>
                             </div>
                         </div>
