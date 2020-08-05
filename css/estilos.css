@@ -1,0 +1,248 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #eeeeee;
+}
+nav{
+    width: max-content;
+    margin: auto;
+}
+nav .nav-link{
+    color: #4b4b4b;
+    text-transform:uppercase;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+nav .nav-link:hover{
+    color: #0056b3;
+    text-decoration: none;
+}
+nav .active:hover{
+    text-decoration: none;
+}
+nav .active{
+    font-weight: bold;
+    text-decoration: underline;
+}
+nav .nav-item{
+    width: 250px;
+}
+h1{
+    font-size: 55px;
+    font-weight: 800;
+}
+h2{
+    font-size: 30px;
+    font-weight: 700;
+}
+.btn{
+    background-color: black !important;
+    color: #eeeeee;
+    border-radius: 0;
+    transition: color .15s;
+    display: inline-block;
+    line-height: 1.5;
+    text-align: center;
+}
+.btn:hover{
+    color: black;
+    background-color: white !important;
+    border: 1px solid black;
+}
+
+.form-control{
+    background-color:#eeeeee;
+    border: 0;
+    border-bottom: 1px solid #4b4b4b;
+    border-radius: 0;
+    font-size: 18px;
+}
+footer{
+    background-color: white;
+}
+footer a{
+    color: black;
+    text-decoration: underline;
+}
+footer i{
+    font-size: 35px;
+    border: 1px solid;
+    height: 55px;
+    width: 55px;
+    text-align: center;
+    padding: 8px 0 0 0;
+    border-radius: 80px;
+    margin: 0 15px;
+}
+.text-left{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.text-right a{
+    font-weight: bold;
+}
+#proyectos h2{
+    font-size: 22px;
+    font-weight: 500;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    display: block;
+}
+#proyectos h3{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    display: block;
+    margin-bottom: .5rem;
+    line-height: 1.2;
+    
+}
+#proyectos p{
+    font-size: 17px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    display: block;
+    
+}
+#proyectos img{
+    height: 260px;
+    width: 100%;
+}
+#proyectos .img-fluid{
+    max-width: 100%;
+}
+#proyectos .btn{
+    background-color: black;
+    color: #eeeeee;
+    border-radius: 0;
+    transition: color .15s;
+    display: inline-block;
+    line-height: 1.5;
+    text-align: center;
+}
+#proyectos .btn:hover{
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}
+#sobre-mi h2{
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 40px;
+    margin-bottom: .5rem;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+#sobre-mi h1{
+    font-size: 55px;
+    line-height: 40px;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-bottom: 10px;
+}
+#sobre-mi .btn{
+    background-color: black;
+    color: #eeeeee;
+    border-radius: 0;
+    transition: color .15s;
+    display: inline-block;
+    line-height: 1.5;
+    text-align: center;
+}
+#sobre-mi .btn:hover{
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}
+#sobre-mi .img-circle{
+    margin: 1em auto;
+    display: block;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 50%;
+}
+#sobre-mi .img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+#sobre-mi i{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    font-size: 40px;
+}
+#sobre-mi .bg-white{
+    min-height: 300px;
+    background-color: white !important;
+    color: #212529;
+    text-align: left;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+#experiencia{
+    background-color: rgb(45, 45, 45);
+}
+#experiencia h2{
+    color: white;
+    font-size: 45px;
+    line-height: 1.2;
+    margin-bottom: 30px;
+}
+#experiencia h3{
+    color: white;
+    font-size: 20px;
+    line-height: 1.2;
+    margin-bottom: 50px;
+}
+#experiencia h4{
+    color: white;
+    font-size: 20px;
+    line-height: 1.2;
+    margin-bottom: 50px;
+}
+#home{
+    background-image: url(../images/Fondos-06.png);
+    background-repeat: repeat;
+    background-size: 100%;
+    height: 81vh;
+}
+#home .container-fluid{
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#home h2{
+    font-size: 22px;
+    line-height: 40px;
+    color: rgb(45, 45, 45);
+    font-weight: 500;
+    margin-top: 25px;
+}
+#home .btn{
+    background-color: black;
+    color: #eeeeee;
+    border-radius: 0;
+    transition: color .15s;
+    display: inline-block;
+    line-height: 1.5;
+    text-align: center;
+    margin-top: 25px;
+}
+#home .btn:hover{
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}
