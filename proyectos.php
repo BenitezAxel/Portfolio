@@ -82,7 +82,7 @@
                         </div>
                         <div class="row p-3">
                             <div class="col-6">
-                                <a href="abmventas" class="btn" target="_blank">Ver online</a>
+                                <a href="abmventas/login.php" class="btn" target="_blank">Ver online</a>
                             </div>
                             <div class="col-6 text-right">
                                 <a href="https://github.com/BenitezAxel/ABMVentas" target="_blank">Codigo
